@@ -68,3 +68,7 @@ Using hashes.com we can dehash this and find that the hash is equal to `Spring20
 According to the function the flag should be the following: (confirmed by CTFLearn validation)
 
 Flag: **CTFlearn{Spring2019_is_not_secure!}**
+
+## Video
+
+[Walkthrought video of my work](https://youtu.be/9MLDOSXXmFY).

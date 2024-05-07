@@ -69,3 +69,7 @@ Sending the right password `opossum` gives us the flag:
 ![img1](img1.png)
 
 Flag2: **picoCTF{pining.for.the.fjords}**
+
+## Video
+
+[Walkthrought video of my work](https://youtu.be/ityW3oIsM_g).

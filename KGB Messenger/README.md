@@ -56,7 +56,6 @@ Like the first function to be launched in an app is OnCreate, we take a look at 
     a.a((Context)this);
     startActivity(new Intent((Context)this, LoginActivity.class));
   }
-}
 ```
 
 To start the activity we need both strings `str2` & `str1` to follow these conditions: 
@@ -259,4 +258,4 @@ We find this function which gives us the flag w/ the 19 first caracters of the v
 
 ## Video
 
-[Walkthrought video of my work](https://youtu.be/xYtAZLwKJFY).
+[Walkthrought video of my work](https://youtu.be/Izn4sg0G8x4).
