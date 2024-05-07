@@ -1,4 +1,4 @@
-# Android CTF - CTFLearn Basic Android RE 1.
+# Android CTF - CTFLearn Basic Android RE 1
 
 Welcome to the Android Capture The Flag (CTF) based on the CTFLearn Basic Android RE 1 application!
 

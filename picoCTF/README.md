@@ -1,4 +1,4 @@
-# Android CTF - picoCTF.
+# Android CTF - picoCTF
 
 Welcome to the Android Capture The Flag (CTF) based on the picoCTF Practice Challenges!
 

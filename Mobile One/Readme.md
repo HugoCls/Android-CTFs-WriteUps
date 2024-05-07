@@ -1,4 +1,4 @@
-# Android CTF - Mobile One.
+# Android CTF - Mobile One
 
 Welcome to the Android Capture The Flag (CTF) based on the Mobile One application!
 

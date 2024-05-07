@@ -1,4 +1,4 @@
-# Android CTF - KGB Messenger.
+# Android CTF - KGB Messenger
 
 Welcome to the Android Capture The Flag (CTF) based on the KGB Messenger application!
 
