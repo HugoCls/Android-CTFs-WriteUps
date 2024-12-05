@@ -41,11 +41,11 @@ It tells us to search somewhere else: "Where else could that be?"
 
 As the reverse seemed very difficult (the code looks obfuscated), I decided to launch the application and see what happens.
 
-![img2](img2.png)
+![img2](images/img2.png)
 
 If we open logcat and search for `picoCTF` strings, we get the following result:
 
-![img1](img1.png)
+![img1](images/img1.png)
 
 We found the flag for level 0.
 
@@ -62,11 +62,11 @@ grep -r flag
 
 Gives us the following password
 
-![img4](img4.png)
+![img4](images/img4.png)
 
 Sending the right password `opossum` gives us the flag:
 
-![img1](img1.png)
+![img1](images/img1.png)
 
 Flag2: **picoCTF{pining.for.the.fjords}**
 
